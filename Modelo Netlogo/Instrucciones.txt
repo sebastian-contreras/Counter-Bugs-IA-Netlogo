@@ -1,0 +1,7 @@
+Intrucciones:
+
+1) Abrir el modelo
+2) Presionar Drawgrid
+3) Insertar imagen, Archivo-> importar-> colores de parcelas 
+4) Presionar setup
+5) Presionar go
